@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=tRu9vGS_EtM&feature=emb_logo
 
 ## Users Guides
 
-[iOS](UsersGuide.pdf)
+[iOS](https://github.com/ssprl/Super-Gaussian-Single-Microphone-Speech-Enhancement/blob/master/UsersGuide.pdf)
 
 ## Requirements 
 
