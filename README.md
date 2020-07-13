@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=tRu9vGS_EtM&feature=emb_logo
 
 ## Requirements 
 
-- For iOS implementation, iPhone 7 and X were considered. 
+- iPhone 7 running iOS 10.3
 
 ## License and Citation
 The codes are licensed under MIT license.
