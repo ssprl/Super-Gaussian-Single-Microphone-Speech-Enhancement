@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=tRu9vGS_EtM&feature=emb_logo
 - iPhone 7 running iOS 10.3
 
 ## License and Citation
-The codes are licensed under MIT license.
+The codes are licensed under open-source MIT license.
 
 For any utilization of the code content of this repository, one of the following books needs to get cited by the user:
 
