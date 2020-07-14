@@ -1,5 +1,3 @@
-# Super-Gaussian-Single-Microphone-Speech-Enhancement
-
 # An Individualized Super-Gaussian Single Microphone Speech Enhancement for Hearing Aid Users With Smartphone as an Assistive Device
 
 ## Overview
